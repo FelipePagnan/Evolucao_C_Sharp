@@ -1,0 +1,7 @@
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\bin\Debug\Estoque.pdb
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\obj\Debug\Estoque.csprojAssemblyReference.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\obj\Debug\Estoque.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\Estoque\Estoque\obj\Debug\Estoque.pdb
